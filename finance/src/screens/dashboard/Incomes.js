@@ -69,7 +69,6 @@ const effectiveDate = {
   config: {
     format: date => dateFormat('DD/MM/YYYY', date),
   },
-  placeholder: 'xxxxxxxx',
 };
 
 function incomesTemplate(locals) {

@@ -88,7 +88,7 @@ class Login extends Component {
         // let user = await Api.login(userForm);
         let user = {
           username: 'deeprado',
-          email: 'xxx',
+          email: 'siversonw@126.com',
           password: '123456',
           access_token: 'aaaaaa',
         };
